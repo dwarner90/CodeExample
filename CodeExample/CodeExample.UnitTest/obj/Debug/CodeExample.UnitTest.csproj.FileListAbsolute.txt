@@ -1,0 +1,17 @@
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\CodeExample.UnitTest.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\CodeExample.UnitTest.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\CodeExample.Entities.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\CodeExample.Service.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\CodeExample.Entities.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\CodeExample.Service.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\obj\Debug\CodeExample.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\obj\Debug\CodeExample.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\obj\Debug\CodeExample.UnitTest.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.UnitTest\obj\Debug\CodeExample.UnitTest.pdb

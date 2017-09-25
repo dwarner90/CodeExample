@@ -1,0 +1,16 @@
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\bin\Debug\netstandard1.4\CodeExample.Entities.deps.json
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\bin\Debug\netstandard1.4\CodeExample.Entities.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\bin\Debug\netstandard1.4\CodeExample.Entities.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.AssemblyInfo.cs
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\bin\Debug\netstandard1.4\CodeExample.Entities.deps.json
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\bin\Debug\netstandard1.4\CodeExample.Entities.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\bin\Debug\netstandard1.4\CodeExample.Entities.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.AssemblyInfo.cs
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Entities\obj\Debug\netstandard1.4\CodeExample.Entities.pdb

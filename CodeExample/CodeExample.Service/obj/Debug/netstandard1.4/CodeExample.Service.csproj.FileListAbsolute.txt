@@ -1,0 +1,20 @@
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Service.deps.json
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Service.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Service.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Entities.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Entities.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.AssemblyInfo.cs
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Service.deps.json
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Service.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Service.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Entities.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\bin\Debug\netstandard1.4\CodeExample.Entities.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.AssemblyInfo.cs
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample.Service\obj\Debug\netstandard1.4\CodeExample.Service.pdb

@@ -1,0 +1,28 @@
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.deps.json
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.runtimeconfig.json
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.runtimeconfig.dev.json
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.AssemblyInfo.cs
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Entities.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Service.dll
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Service.pdb
+C:\Users\dwarner\Documents\Visual Studio 2017\Projects\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Entities.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.deps.json
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.runtimeconfig.json
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.runtimeconfig.dev.json
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Entities.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Service.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Service.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\bin\Debug\netcoreapp1.1\CodeExample.Entities.pdb
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.csprojResolveAssemblyReference.cache
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.csproj.CoreCompileInputs.cache
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.AssemblyInfo.cs
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.dll
+C:\Users\dwarner\Source\Repos\CodeExample\CodeExample\CodeExample\obj\Debug\netcoreapp1.1\CodeExample.pdb
